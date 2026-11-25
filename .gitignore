@@ -1,0 +1,14 @@
+
+# Compiled Java files
+bin/
+out/
+*.class
+
+# VS Code settings
+.vscode/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp

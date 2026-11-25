@@ -1,0 +1,14 @@
+-- ============================================================
+-- Banking Management System - Configuration
+-- Edit DatabaseConnection.java with the values below.
+-- ============================================================
+Database URL : jdbc:mysql://localhost:3306/BankingManagementSystem
+Username     : root
+Password     : <REPLACE_WITH_YOUR_MYSQL_PASSWORD>
+JDBC Driver  : lib/mysql-connector-java-8.0.33.jar
+
+Steps:
+1. Install MySQL Server and start it.
+2. Run sql/BankingManagementSystem.sql in MySQL.
+3. Download MySQL Connector/J and place the JAR in the lib folder.
+4. Update USER and PASS constants in DatabaseConnection.java.
